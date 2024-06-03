@@ -1,0 +1,5 @@
+Environment creat:
+python -m venv emotion
+
+activate env:
+.\emotion\Scripts\Activate.ps1
